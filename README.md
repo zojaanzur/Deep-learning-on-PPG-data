@@ -11,3 +11,12 @@ The data analysed contains raw PPG signal obtained from 24 subjects in 5 differe
 1. Average heart-rate of each subject per condition/activity.
 2. A plot of model accuracy and loss on both test and validation data for each epoch during training.
 3. A confusion matrix for the final model.
+
+## Requirements
+Python (version 3.12.1) with the following libraries:
+- pandas
+- numpy
+- keras
+- matplotlib
+- seaborn
+- scipy
